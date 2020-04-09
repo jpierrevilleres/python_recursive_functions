@@ -1,0 +1,6 @@
+is_power(10, 2) returns:  False				#10 is not a power of 2
+is_power(27, 3) returns:  True				#27 is a power of 3
+is_power(1, 1) returns:  True				#1 is a power of 1
+is_power(10, 1) returns:  False				#10 is not a power of 1
+is_power(3, 3) returns:  True				#3 is a power of 3 
+>>> 
